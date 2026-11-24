@@ -1,0 +1,14 @@
+{
+  "lead": {
+    "provider": "codex/your-coordinator-model",
+    "thinkingOptionId": "high"
+  },
+  "worker": {
+    "provider": "codex/your-worker-model",
+    "thinkingOptionId": "medium"
+  },
+  "verifier": {
+    "provider": "claude/your-verifier-model",
+    "thinkingOptionId": "high"
+  }
+}
